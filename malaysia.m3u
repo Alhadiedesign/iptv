@@ -13,7 +13,7 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 https://live.mana2.my/Tv6/tracks-v1a1/mono.m3u8?token=1708258273-d407898a8e674fb69d975468cd80036e-0-da4365103633338f01c8e83d4454084d&auth_key=1708258273-d407898a8e674fb69d975468cd80036e-0-17c0e035f32874b2845c78fa7bb54823
 
 #EXTINF:-1 tvg-id="TV Al Hijrah.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="Malay",TV Al Hijrah [Geo-blocked]
-https://live.mana2.my/Tv6/tracks-v1a1/mono.m3u8?token=1708258273-d407898a8e674fb69d975468cd80036e-0-da4365103633338f01c8e83d4454084d&auth_key=1708258273-d407898a8e674fb69d975468cd80036e-0-17c0e035f32874b2845c78fa7bb54823
+https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1708260928-7be072f32b07491bafa61fc88ee76422-0-c329e158d2959bc4c90a8b5a1e4c8d6c&auth_key=1708260928-7be072f32b07491bafa61fc88ee76422-0-8f9e53b0eb4c58a062ae546f41bebbcb
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malay",Astro Awani (720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -33,5 +33,4 @@ https://live.mana2.my/SukanRtm/tracks-v1a1/mono.m3u8?token=1708258866-e0f942be06
 
 #EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Malay",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-
 
