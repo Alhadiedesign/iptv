@@ -9,11 +9,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Malay",TV3 [Geo-blocked]
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://i.imgur.com/q9vNiHw.png" group-title="Malay",TV6 [Geo-blocked]
-https://live.mana2.my/Tv6/tracks-v1a1/mono.m3u8?token=1708258273-d407898a8e674fb69d975468cd80036e-0-da4365103633338f01c8e83d4454084d&auth_key=1708258273-d407898a8e674fb69d975468cd80036e-0-17c0e035f32874b2845c78fa7bb54823
-
 #EXTINF:-1 tvg-id="TV Al Hijrah.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="Malay",TV Al Hijrah [Geo-blocked]
-https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1708260928-7be072f32b07491bafa61fc88ee76422-0-c329e158d2959bc4c90a8b5a1e4c8d6c&auth_key=1708260928-7be072f32b07491bafa61fc88ee76422-0-8f9e53b0eb4c58a062ae546f41bebbcb
+https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1709046830-ba4b5a174b854e84ae38fd6736484aa1-0-06c0071ac27d4f7a44c7b47ee9413248&auth_key=1709046830-ba4b5a174b854e84ae38fd6736484aa1-0-ac7a9b3101013536d40871f8174adb6e
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malay",Astro Awani (720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
