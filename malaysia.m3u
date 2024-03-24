@@ -31,7 +31,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="Malay",Sukan RTM [Geo-blocked]
 https://live.mana2.my/SukanRtm/tracks-v1a1/mono.m3u8?token=1708258866-e0f942be06b24493a51f6c6c258d1c31-0-7e785246e824374a400d53123404a00e&auth_key=1708258866-e0f942be06b24493a51f6c6c258d1c31-0-8662c5577621418fcc4e51288fe9c549
 
-#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Malay",Alwafa Tarim TV (Am Media) (720p)
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Malay",Alwafa Tarim TV (720p)
 https://ammedia.siar.us/ammedia/live/ammedia_720p.m3u8
 
 #EXTINF:-1 tvg-id="MeccaLive.sa" tvg-logo="https://i.ibb.co/k97xBGJ/unnamed.jpg" group-title="Saudi Arabia",Mecca Live TV (Am Media) (720p)
