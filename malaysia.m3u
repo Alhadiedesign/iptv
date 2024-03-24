@@ -10,7 +10,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="TV Al Hijrah.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="Malay",TV Al Hijrah [Geo-blocked]
-https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1709046830-ba4b5a174b854e84ae38fd6736484aa1-0-06c0071ac27d4f7a44c7b47ee9413248&auth_key=1709046830-ba4b5a174b854e84ae38fd6736484aa1-0-ac7a9b3101013536d40871f8174adb6e
+https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1711321120-958d7b61cb294be2a2cc3f913859723e-0-a41f98a30a4fed4f062a8d6207b0fa3c&auth_key=1711321120-958d7b61cb294be2a2cc3f913859723e-0-8b735316c345d68065d79a4927906ba3
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malay",Astro Awani (720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -31,3 +31,11 @@ https://live.mana2.my/SukanRtm/tracks-v1a1/mono.m3u8?token=1708258866-e0f942be06
 #EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Malay",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Malay",Alwafa Tarim TV (Am Media) (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MeccaLive.sa" tvg-logo="https://i.ibb.co/k97xBGJ/unnamed.jpg" group-title="Saudi Arabia",Mecca Live TV (Am Media) (720p)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711325254/ei/5msAZqLEBubBi9oPnbWBsAg/ip/92.205.15.128/id/moQtMet7F7w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0z9pbOkSwD6y5Y-f4Aarsx8FeITXcWDhw5aiSDXNI4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIB_ylHd0jMC6pOK3BFvSn9QCzGsyreMmDI1O6MB3p15AiEAgV_2gxBgXgcNHmWUmIJdrvUUyPPmTMMVi-JieXtE3zI%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="MadinaLive.sa" tvg-logo="https://i.ibb.co/k97xBGJ/unnamed.jpg" group-title="Saudi Arabia",Madina Live TV (Am Media) (720p)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711325545/ei/CW0AZrCcHsff6dsPvZOjmAI/ip/92.205.15.128/id/-mr6TD6YxR8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129853/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2gKeCYZqXtzcXFDDCIqrFUp5F8PvVNrRUdWbwLIbmA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALZ7h0c_KFcR7sn0lWjI_u5KQZMgz1uUuHcscDiEOmXyAiBC7nMwg2SzftGG_L-Z3mzy0Trl33Lss5XXKggkjR6kDw%3D%3D/file/index.m3u8
