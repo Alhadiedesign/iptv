@@ -22,6 +22,9 @@ https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
+#EXTINF:-1 tvg-id="AlJazeera.en" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="English",Al Jazeera English
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711325907/ei/c24AZsboOZKvmLAP1JqMmAE/ip/92.205.15.128/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066120/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1AGc88iH_z1fTwl9XhqkDGsW-zO2I3518PTn81q8pA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPcwXsQxQE8htSEiyAPAsHtu6K4VDbfpVeppu6sFv3w9AiBJ5Qw6YYmxSiqqUdT1YKtJzqBPPwTgjcut_8xIchm4fA%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Malay",Dunia Sinema (1080p)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
